@@ -52,11 +52,13 @@ Utilizado para detectar o nível ou profundidade de um recipiente com água. Cas
 
 <h3>Design</h3>
 
-<p align="center"><img src= "design.jpg" align="center" width="500"><br></p>
+<p align="center"><img src= "design.jpg" align="center" width="500"><br></p>  
 
 <p align="center">Design feito com o Fritzing para mostrar a protoboard com as suas devidas ligações</ p>
 
 <h3>Programação - Código</h3>
+
+``` c++
 
 #include <LiquidCrystal.h>
 #include <dht.h>
@@ -171,7 +173,7 @@ float t = DHT.temperature;  //Le o valor da temperatura
   lcd.print("%");
  delay(2000);
 }
-
+```
 <h3>Operação</h3>
 Na primeira imagem é o projeto em andamento e na segunda é o projeto finalizado.
 
