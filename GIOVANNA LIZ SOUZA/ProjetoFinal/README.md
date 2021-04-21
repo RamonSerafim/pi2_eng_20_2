@@ -39,7 +39,7 @@ As formas de onda dos sons são enviadas diretamente para o pino de I/O, resulta
 <h4>Sensor De Movimento e Presença PIR - HC-SR501</h4>
 É capaz de detectar movimento de objetos que exalam calor e que estejam dentro do seu raio de detecção que alcança até 7 metros. Com o sensor atuando, qualquer objeto que se movimentar dentro do seu campo de detecção, fará com que a saída do mesmo seja ativada.
 
-<p align="center"><img src= "sensor_presenca.jpg" align="center" with="100"><br></p>
+<p align="center"><img src= "sensor_presenca.jpg" align="center" with="50"><br></p>
 
 <h4>Sensor de água</h4>
 Utilizado para detectar o nível ou profundidade de um recipiente com água. Caso não seja detectado água na superfície da placa, a saída analógica do sensor se mantém zerada e quando o sensor detectar a presença de água sobre a superfície, a saída analógica irá variar sua leitura sempre acima de zero.
