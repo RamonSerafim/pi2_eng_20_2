@@ -257,9 +257,10 @@ Caso o projeto seguisse em frente, algumas sugestões poderiam ser acrescentadas
 
 O sistema tem uma boa performance e opera de modo simples, apesar de algumas complicações e de que o sistema precisa de algumas melhorias. O sistema desenvolvido gera conforto e deixa as residências mais seguras.
  
-<h3>REFERÊNCIAS<h3>
+<h3>REFERÊNCIAS</h3>
 	
-<h3>TEZA, Vanderlei Rabelo. Alguns Aspectos Sobre  Automação Residencial - Domótica. Florianópolis, 2002. Disponivél em:
-https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence=1&isAllowed=y </h3>
+TEZA, Vanderlei Rabelo. Alguns Aspectos Sobre  Automação Residencial - Domótica. Florianópolis, 2002. Disponivél em:
+https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence=1&isAllowed=y 
 
-<h3>BUNEMER, Ricardo. Domótica Assistiva Utilizando Sistema de Supervisão e Controle. Campinas, 2014. Disponivél em: http://repositorio.unicamp.br/bitstream/REPOSIP/265887/1/Bunemer_Ricardo_M.pdf</h3></p>
+BUNEMER, Ricardo. Domótica Assistiva Utilizando Sistema de Supervisão e Controle. Campinas, 2014. Disponivél em: http://repositorio.unicamp.br/bitstream/REPOSIP/265887/1/Bunemer_Ricardo_M.pdf
+	</p>
