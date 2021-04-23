@@ -1,29 +1,7 @@
-                                                                            DOMÓTICA
-Resumo: 
 
-Palavras-chave: 
-
-
-INTRODUÇÃO
-  Em virtude dos avanços tecnológicos, a sociedade busca cada vez mais a comodidade no seu dia a dia. Na atualidade conseguimos pedir comida com apenas alguns cliques em um smartphone, ou até por um comando de voz; dirigir nunca foi tão fácil como nos tempos atuais, tudo isso graças a informática. O mundo está caminhando para tornar a vida cada vez mais inteligente, principalmente nas residências, essa tecnologia é chamada de domótica onde se monitora e controla os recursos habitacionais.
-  
-  Segundo Bunemer (2014, p.10), “A Domótica Inteligente deve analisar os dados obtidos pelos sensores, de modo a adaptar suas regras de automação ao comportamento dos usuários do sistema automatizado. “ (BUNEMER, 2014), já que cada pessoa tem suas individualidades, como a sensibilidade para temperatura e luminosidade.
-  
-  A domótica vem ganhando espaço no mercado Brasileiro, virou um utensílio de status ou até moda ter uma casa inteligente ou pelo menos alguns itens. TEZA (2002), alega que a automação Residencial promove mais comodidade e segurança.
-  
-  Na automação residencial temos três níveis de interação, Sistemas Autônomos; Integração de Sistemas; Residência Inteligente. Sendo que a complexidade está diretamente ligada à experiência do usuário, ao quanto a interação do usuário com o sistema será necessária, ou seja, quanto menos o utilizador interagir com o sistema mais complexo ele será. (TEZA, 2002).
-  
-                  Sistemas Autônomos - podemos ligar ou desligar um subsistema ou um dispositivo específico de acordo com um ajuste pré-definido. Porém, neste esquema, cada                        dispositivo ou subsistema é tratado independentemente, sem que dois dispositivos tenham relação um com o outro [...].Integração de Sistemas - é projetada                       para ter múltiplos subsistemas integrados a um único controlador. A limitação deste sistema está em que cada subsistema deve ainda funcionar unicamente  na                       forma a qual o seu fabricante pretendia. Basicamente, trata-se apenas de controle remoto estendido a diferentes locais. [...] Residência Inteligente - o                         produto manufaturado pode ser personalizado para atender às necessidades do proprietário. O arquiteto, o Integrador de Sistemas e o proprietário delinearam                     instruções específicas para modificar o uso do produto. Assim, o sistema torna-se um GERENCIADOR, ao invés de apenas um controlador remoto.(TEZA, 2002, p. 31).
-
-	
-  A tendência é que a domótica cresça de acordo com a necessidade do ser humanos, quanto menos o usuário precisar interagir com sistema mais atrativo ele se torna.
-
-CONCEPÇÃO
-Com o avanço da tecnologia, podemos prever algumas coisa que antes não víamos necessidade, a ideia formulada será um sistema de segurança, onde ao haver um vazamento de gás será impossível acionar o interruptor, a lâmpada por sua vez poderá ser acionada através de uma página na web, caso seja inviável mostrará também o por quê. Para o projeto será necessário, um led para simular a lâmpada, um módulo bluetooth para comunicação, um sensor de gás, um arduino mega para programação, jumpers, protoboard e resistores.
-  
-REFERÊNCIAS
-TEZA, Vanderlei Rabelo. Alguns Aspectos Sobre  Automação Residencial - Domótica. Florianópolis, 2002. Disponivél em:   https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/83015/212312.pdf?sequence=1&isAllowed=y
-
-BUNEMER, Ricardo. Domótica Assistiva Utilizando Sistema de Supervisão e Controle. Campinas, 2014. Disponivél em: http://repositorio.unicamp.br/bitstream/REPOSIP/265887/1/Bunemer_Ricardo_M.pdf
-
-
+<h3 align="center">SEGURANÇA RESIDENCIAL ATRAVÉS DA DOMÓTICA</h3>
+<h3 align="center">Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina</h3>
+<h3 align="center">Campus Florianópolis</h3>
+<h3 align="center">Departamento Acadêmico de Eletrônica</h3>
+<h3 align="center">Projeto Integrador II</h3>
+<h3 align="center">Thaine Martini</h3>
