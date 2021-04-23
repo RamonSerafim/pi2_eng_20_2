@@ -30,9 +30,9 @@ A tendência é que a domótica cresça de acordo com a necessidade do ser human
 
 Com o avanço da tecnologia, podemos prever algumas coisa que antes não víamos necessidade, a ideia formulada é um sistema de segurança, onde ao haver um vazamento de gás é impossível acionar o interruptor, a lâmpada por sua vez pode ser acionada remotamente através de um aplicativo (Blynk), nesse aplicativo também é mostrado a temperatura e a umidade do ambiente, além disso o projeto informa sobre acúmulo de água no ambiente acionando um alerta, com o funcionamento igual mostra o fluxograma (Figura 1). Para o projeto é necessário, uma lâmpada, soquete, tomada, um ESP8266 para comunicação WIFI, um sensor de gás (MQ2), sensor de nível de água, sensor de temperatura e umidade (DHT11), buzzer, LED,  um arduino mega para programação, jumpers, protoboard e resistores. Para o acionamento remoto é utilizado o aplicativo Blynk, que possui uma interface fácil e intuitiva, além de aceitar o esp01.
 	
-Figura 1 - fluxograma de concepção do projeto.
-<p align="center"><img src= "Fluxograma.png" align="center" width="200"><br></p>
-Fonte: Arquivo pessoal
+<p align="center">Figura 1 - fluxograma de concepção do projeto.</p>
+<p align="center"><img src= "Fluxograma.png" align="center" width="500"><br></p>
+<p align="center">Fonte: Arquivo pessoal</p>
 
 
 
@@ -215,18 +215,18 @@ void loop()
 O design do hardware foi feito no aplicativo fritzing, um hardware simples com tecnologias encontradas no mercado nacional.
 
 
-Figura 2 - Design do Hardware 
+<p align="center">Figura 2 - Design do Hardware </p>
 
-<p align="center"><img src= "DESIGNH.png" align="center" width="200"><br></p>
+<p align="center"><img src= "DESIGNH.png" align="center" width="500"><br></p>
 
-Fonte: Arquivo Pessoal
+<p align="center">Fonte: Arquivo Pessoal</p>
 
 Para o design do aplicativo foi utilizado o Blynk, que está presente na AppStore e na Google Play, nesse aplicativo é possível adicionar botões, displays, timer e outras utilidades. Nesse projeto foi utilizado um botão e dois displays, como mostra a figura 3.
 
-Figura 3 - Design do aplicativo
+<p align="center">Figura 3 - Design do aplicativo</p>
 
-<p align="center"><img src= "Designapp.jpeg" align="center" width="200"><br></p>
-Fonte: Arquivo Pessoal
+<p align="center"><img src= "Designapp.jpeg" align="center" width="500"><br></p>
+<p align="center">Fonte: Arquivo Pessoal</p>
 
 <h3>IMPLEMENTAÇÃO </h3>
 
