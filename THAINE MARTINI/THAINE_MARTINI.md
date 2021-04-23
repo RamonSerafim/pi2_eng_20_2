@@ -12,7 +12,7 @@
  
 Palavras-chave: Acidentes; Segurança; Sensores; Domótica; Automatização. 
 
-INTRODUÇÃO
+<h3>INTRODUÇÃO</h3>
 
 Em virtude dos avanços tecnológicos, a sociedade busca cada vez mais a comodidade no seu dia a dia. Na atualidade conseguimos pedir comida com apenas alguns cliques em um smartphone, ou até por um comando de voz; dirigir nunca foi tão fácil como nos tempos atuais, tudo isso graças a informática. O mundo está caminhando para tornar a vida cada vez mais inteligente, principalmente nas residências, essa tecnologia é chamada de domótica onde se monitora e controla os recursos habitacionais.
 
