@@ -239,6 +239,7 @@ Figura 4 - Protótipo Finalizado (exterior)
 Fonte: Arquivo Pessoal
 
 Figura 5 - Protótipo Finalizado (interior)
+<p align="center"><img src= "Prototipo.interior.jpg" align="center" width="180"><br></p>
 
 Fonte: Arquivo Pessoal
 
