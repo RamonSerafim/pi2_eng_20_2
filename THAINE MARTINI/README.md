@@ -235,11 +235,11 @@ Através de um código disponibilizado pela própria blynk, foi possível fazer 
 O protótipo montado ficou como mostra a figura 4 e por dentro na Figura 5.
 
 Figura 4 - Protótipo Finalizado (exterior)
-
+<p align="center"><img src= "Prototipo.exterior.PNG" align="center" width="180"><br></p>
 Fonte: Arquivo Pessoal
 
 Figura 5 - Protótipo Finalizado (interior)
-<p align="center"><img src= "Prototipo.interior.jpg" align="center" width="180"><br></p>
+<p align="center"><img src= "Prototipo.interior.PNG" align="center" width="180"><br></p>
 
 Fonte: Arquivo Pessoal
 
