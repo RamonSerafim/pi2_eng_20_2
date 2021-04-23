@@ -234,13 +234,13 @@ Através de um código disponibilizado pela própria blynk, foi possível fazer 
 
 O protótipo montado ficou como mostra a figura 4 e por dentro na Figura 5.
 
-Figura 4 - Protótipo Finalizado (exterior)
-<p align="center"><img src= "Prototipo.exterior.PNG" align="center" width="180"><br></p>
+<p align="center">Figura 4 - Protótipo Finalizado (exterior)</p>
+<p align="center"><img src= "Prototipo.exterior.PNG" align="center" width="500"><br></p>
 Fonte: Arquivo Pessoal
 
-Figura 5 - Protótipo Finalizado (interior)
-<p align="center"><img src= "Prototipo.interior.PNG" align="center" width="180"><br></p>
 
+<p align="center">Figura 5 - Protótipo Finalizado (interior)</p>
+<p align="center"><img src= "Prototipo.interior.PNG" align="center" width="500"><br></p>
 Fonte: Arquivo Pessoal
 
 Após alguns teste foi verificado um bug no botão de acionamento remoto, a lampada só muda de estado caso o botão esteja no off e mude para o on, porém isso não afeta significativamente o projeto.
