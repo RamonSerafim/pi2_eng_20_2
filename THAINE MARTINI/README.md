@@ -236,12 +236,12 @@ O protótipo montado ficou como mostra a figura 4 e por dentro na Figura 5.
 
 <p align="center">Figura 4 - Protótipo Finalizado (exterior)</p>
 <p align="center"><img src= "Prototipo.exterior.PNG" align="center" width="500"><br></p>
-Fonte: Arquivo Pessoal
+<p align="center">Fonte: Arquivo Pessoal</p>
 
 
 <p align="center">Figura 5 - Protótipo Finalizado (interior)</p>
 <p align="center"><img src= "Prototipo.interior.PNG" align="center" width="500"><br></p>
-Fonte: Arquivo Pessoal
+<p align="center">Fonte: Arquivo Pessoal</p>
 
 Após alguns teste foi verificado um bug no botão de acionamento remoto, a lampada só muda de estado caso o botão esteja no off e mude para o on, porém isso não afeta significativamente o projeto.
 	
