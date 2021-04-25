@@ -254,7 +254,7 @@ https://drive.google.com/file/d/1MQcfraQatCqzddx5zNOjeE70ASlFMEyu/view?usp=shari
 
 <h3>MELHORIAS FUTURA</h3>
 	
-Caso o projeto seguisse em frente, algumas sugestões poderiam ser acrescentadas como: sistema de abertura de porta automático caso detectado vazamento de ar, um acionamento mecânico para a luz e correção de bugs. Além, é claro, de uma vedação no sistema.
+Caso o projeto seguisse em frente, algumas sugestões poderiam ser acrescentadas como: sistema de abertura de porta automático caso detectado vazamento de gás, um acionamento mecânico para a luz e correção de bugs. Além, é claro, de uma vedação no sistema.
 
 <h3>CONCLUSÃO</h3>
 
