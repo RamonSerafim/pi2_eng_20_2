@@ -26,11 +26,11 @@ Casas programadas com rotinas semanais, abrir e fechar cortinas/janelas, ligar e
 
 Com as ideias prontas, foi feita uma representação em software para visualizar melhor a montagem na fase de implementação. O primeiro croqui feito é demonstrado na foto abaixo.
 
-(croqui inicial)
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/Croqui%20Ramon%20Serafim.png?raw=true">
 
 Após alguns testes e visualizar problemas que serão descritos no decorrer do projeto o Croqui final e o projeto final ficou no modelo da foto abaixo.
 
-(croqui final)
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/Croqui%20final%20Ramon%20Serafim.png?raw=true">
 
 
 
@@ -42,55 +42,55 @@ Após alguns testes e visualizar problemas que serão descritos no decorrer do p
 
 Uma placa microcontrolada baseada no ATmega2560. Possui 54 pinos de entrada/saída digital. Contém tudo que é necessário para dar suporte ao microcontrolador; funciona ao se conectar a um computador por USB ou um adaptador AC-DC ou uma bateria. Compatível com a maioria de blindagens projetadas para o Uno.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/arduino%20mega%202560.jpg?raw=true">
 
 **Sensor de Gás MQ-2**
 
 Módulo confiável e simples de usar em seus projetos de automação residencial, capaz de detectar concentrações de gases combustíveis e fumaça no ar.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/sensor%20gas.png?raw=true">
 
 **Módulo Buzzer 5V Passivo**
 
 Por ser passivo permite que você tenha mais controle sobre a melodia, utilizando diferentes frequências. Resultando em um som mais limpo.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/modulo%20buzzer.jpg?raw=true">
 
 **Sensor de Presença e Movimento PIR HC-SR501**
 
 Consegue detectar o movimento de objetos que estejam em uma área de até 7 metros! Caso algo ou alguém se movimentar nesta área o pino I/O recebe valor alto.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/sensor%20pir.png?raw=true">
 
  **Sensor de Água**
 
 Utilizado para medir nível ou profundidade de água em um recipiente. Dependendo de sua programação pode medir diferentes volumes de água.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/sensor%20agua.png?raw=true">
 
 **Sensor de Umidade e Temperatura DHT11**
 
 Um sensor de temperatura e umidade que permite fazer leituras de temperaturas entre 0 a 50 Celsius e umidade entre 20 a 90%
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/sensor%20Dht11.jpg?raw=true">
 
 **Sensor de distância Ultrassônico HC-SR04**
 
 Capaz de medir distâncias de 2cm a 4m com ótima precisão e baixo preço. Este módulo possui um circuito pronto com emissor e receptor acoplados.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/sensor%20ultrassonico.jpg?raw=true">
 
 **Display LCD 16X2**
 
 Display que possui 16 colunas e 2 linhas para escrita, utilizado onde precise de uma visualização entre o projeto e o operador.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/lcd%2016x2.jpeg?raw=true">
 
 **Sensor LDR - Light Dependent Resistor**
 
 Um resistor dependente de luz ou fotorresistência. Utilizador como sensor de luz devido ao seu baixo custo e facilidade de utilização.
 
-
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/sensor%20ldr.jpg?raw=true">
 
 **Componentes secundários**
 
@@ -276,7 +276,7 @@ void hcsr04()
 
 Após conectar e ajeitar todos os componentes na protobord e na mesa, o projeto ficou com esse formato.
 
-(imagem circuito mesa)
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/circuito%20na%20mesa.jpg?raw=true">
 
 O visor LCD representando um painel central, os leds de sinalização abaixo dele e os sensores de presença, ultrassônico e de gás mais separados para dar a ideia de que eles podem estar mais distante do ponto central do projeto, representando outros cômodos em uma residência.
 
@@ -284,7 +284,7 @@ O visor LCD representando um painel central, os leds de sinalização abaixo del
 
 Afim de não deixar todo o circuito a mostra e para colocar um certo grau de proteção no mesmo foi decidido colocar em uma caixa, porém o circuito possui muitas conexões.
 
-(imagem caixa falha)
+<img src="https://github.com/RamonSerafim/pi2_eng_20_2/blob/main/RAMON%20BUSIQUIA%20SERAFIM/Projeto%20Final/PI2%20CAIXA%20FALHA.jpg?raw=true">
 
 Com uma parte fixada no local foi feitos novos testes e a partir desse momento foi detectado muitos erros por mau contato nos componentes. Vendo que não conseguiria implementar essa parte foi deixada de lado e o projeto voltou a ser o da foto anterior. Sem os maus contatos decidimos executar o projeto para testes. Após alguns minutos conseguimos verificar que todas as implementações estavam funcionando perfeitamente e ao mesmo tempo, sem problema de código ou algo do gênero.
 
